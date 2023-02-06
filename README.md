@@ -2,9 +2,6 @@
 
 A supply chain for the safe distribution of medicines using Blockchain and AI.
 
-## ⏯️ Explanation + Demo Video
-
-<a href="https://www.youtube.com/watch?v=uQZH6UH1lyY"><img src="https://img.youtube.com/vi/uQZH6UH1lyY/0.jpg" height="500px" width="700px"/></a>
 
 ## ✨ Motivation
 <p align="justify">
