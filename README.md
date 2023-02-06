@@ -45,23 +45,6 @@ npm start
 ```
 
 
-## :octocat: Project GitHub Links:
-- <a href="https://github.com/sherwyn11/Pharma-Chain">Smart Contracts for Blockchain + Frontend + Backend</a>
-- <a href="https://github.com/Darlene-Naz/pharma-assistant">RASA Chatbot</a>
-- <a href="https://github.com/Darlene-Naz/MediBot">Flutter Application</a>
-
-## 🔥 Our Published Paper Link:
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3852034" target="_blank">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3852034</a>
-
-## :busts_in_silhouette: Contributors
-
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/sherwyn11"><img src="https://avatars.githubusercontent.com/u/43489167?v=3?s=100" width="100px;" alt=""/><br /><sub><b>Sherwyn D'souza</b></sub></a><br /><a href="" title="">:new_moon_with_face:</a></td>
-    <td align="center"><a href="https://github.com/Darlene-Naz"><img src="https://avatars.githubusercontent.com/u/46684660?v=3?s=100" width="100px;" alt=""/><br /><sub><b>Darlene Nazareth</b></sub></a><br /><a href="" title="">:snowflake:</a></td>
-    <td align="center"><a href="https://github.com/CassiaVaz"><img src="https://avatars.githubusercontent.com/u/54650944?v=3?s=100" width="100px;" alt=""/><br /><sub><b>Cassia Vaz</b></sub></a><br /><a href="" title="">:sparkles:</a></td></td>
-  </tr>
- </table>
 
 ## License
 
